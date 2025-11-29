@@ -1,6 +1,6 @@
 ## Hey, I’m Alsobe
 
-![wave](https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif)
+![wave](https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966)
 
 I build high-performance systems, tools, and experiments — mostly in **C++**, but I jump into whatever tech gets the job done.
 
@@ -20,5 +20,8 @@ I like solving hard problems, optimizing everything, and shipping fast.
 Always building.  
 If it's interesting, I’ll make it.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alsobe&label=Profile%20views&color=0e75b6&style=flat" alt="alsobe" /> </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsobe&layout=compact)
+
+![Alsobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsobe&show_icons=true&theme=radical)

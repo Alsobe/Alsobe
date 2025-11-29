@@ -22,6 +22,3 @@ If it's interesting, I’ll make it.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsobe&label=Profile%20views&color=0e75b6&style=flat" alt="alsobe" /> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsobe&layout=compact)
-
-![Alsobe's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsobe&show_icons=true&theme=radical)
